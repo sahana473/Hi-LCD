@@ -4,23 +4,23 @@ Abstract
 
 Hardware Components:
 
- Arduino Uno
- LCD 16x2 with Hitachi HD44780 chipset
+ -Arduino Uno
+ -LCD 16x2 with Hitachi HD44780 chipset
 
 Development Tools Used:
 
-PROTEUS 8 - for simulation
-Arduino - for programming
+ -PROTEUS 8 - for simulation
+ -Arduino - for programming
 
 Hardware Connection:
 
-   LCD D4 pin to D5 of Arduino Uno
-   LCD D5 pin to D4 of Arduino Uno
-   LCD D6 pin to D3 of Arduino Uno
-   LCD D7 pin to D2 of Arduino Uno
-   LCD RS pin to D12 of Arduino Uno
-   LCD EN pin to D11 of Arduino Uno
-   LCD R/W pin to Ground
+ - LCD D4 pin to D5 of Arduino Uno
+ - LCD D5 pin to D4 of Arduino Uno
+ - LCD D6 pin to D3 of Arduino Uno
+ - LCD D7 pin to D2 of Arduino Uno
+ - LCD RS pin to D12 of Arduino Uno
+ - LCD EN pin to D11 of Arduino Uno
+ - LCD R/W pin to Ground
 
 Usage:
 
