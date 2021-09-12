@@ -35,7 +35,10 @@ Click on “Verify” button and copy the hex file path from the following log w
 Go to PROTEUS 8->Click on Arduino Uno->Edit Component window will pop up ->paste the hex file path in Program file->Click OK.
 
 ![P Edit](https://user-images.githubusercontent.com/84024571/132992989-2161269d-0baf-4f56-9f3c-890b1d71bbe5.PNG)
+
+
 Click on the Run button.
+
 
 Output:
 
