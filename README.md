@@ -36,7 +36,13 @@ Go to PROTEUS 8->Click on Arduino Uno->Edit Component window will pop up ->paste
 
 ![P Edit](https://user-images.githubusercontent.com/84024571/132992989-2161269d-0baf-4f56-9f3c-890b1d71bbe5.PNG)
 Click on the Run button.
+
 Output:
+
+![output](https://user-images.githubusercontent.com/84024571/132993214-7ee41a31-3256-455c-ac43-4fb70d96169f.PNG)
+
+
+
 
 
 
