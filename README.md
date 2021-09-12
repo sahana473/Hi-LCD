@@ -1,18 +1,18 @@
-Abstract
+## Abstract
 
              This project uses a simple 16x2 LCD which is interfaced to the Arduino Uno to display “HI” on the LCD screen.
 
-Hardware Components:
+## Hardware Components:
 
  - Arduino Uno
  - LCD 16x2 with Hitachi HD44780 chipset
 
-Development Tools Used:
+## Development Tools Used:
 
  - PROTEUS 8 - for simulation
  - Arduino - for programming
 
-Hardware Connection:
+## Hardware Connection:
 
  - LCD D4 pin to D5 of Arduino Uno
  - LCD D5 pin to D4 of Arduino Uno
@@ -22,7 +22,7 @@ Hardware Connection:
  - LCD EN pin to D11 of Arduino Uno
  - LCD R/W pin to Ground
 
-Usage:
+## Usage:
 
 - Download the schematic.pdsprj file->open in PROTEUS 8 tool.
 
@@ -41,7 +41,7 @@ Usage:
 - Click on the Run button.
 
 
-Output:
+## Output:
 
 ![output](https://user-images.githubusercontent.com/84024571/132993214-7ee41a31-3256-455c-ac43-4fb70d96169f.PNG)
 
