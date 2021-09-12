@@ -26,7 +26,7 @@
 
 - Download the schematic.pdsprj file->open in PROTEUS 8 tool.
 
-![LCD](https://user-images.githubusercontent.com/84024571/132992641-86b9db0b-fd35-4664-9e29-aeab9d0ebd1d.PNG | width=100)
+![LCD](https://user-images.githubusercontent.com/84024571/132992641-86b9db0b-fd35-4664-9e29-aeab9d0ebd1d.PNG =250x250)
 
 - Download code.ino and open in Arduino tool.
 - Click on “Verify” button and copy the hex file path from the following log window.
