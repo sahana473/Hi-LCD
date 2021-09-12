@@ -43,7 +43,7 @@
 
 ## Output:
 
-![output](https://user-images.githubusercontent.com/84024571/132993214-7ee41a31-3256-455c-ac43-4fb70d96169f.PNG)
+<img src=https://user-images.githubusercontent.com/84024571/132993214-7ee41a31-3256-455c-ac43-4fb70d96169f.PNG width="800" height="400">
 
 
 
