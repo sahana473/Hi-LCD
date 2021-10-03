@@ -29,6 +29,7 @@ This project uses a simple 16x2 LCD which is interfaced to the Arduino Uno to di
 <img src=https://user-images.githubusercontent.com/84024571/132992641-86b9db0b-fd35-4664-9e29-aeab9d0ebd1d.PNG width="800" height="400">
 
 - Download code.ino and open in Arduino tool.
+- Go to tools ->select Board->select Arduino UNO.
 - Click on “Verify” button and copy the hex file path from the following log window.
 
 <img src=https://user-images.githubusercontent.com/84024571/132992915-45f3b0bf-37e7-4e0c-bc12-97f35ae2aa9b.PNG width="800" height="400">
