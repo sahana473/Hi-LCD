@@ -1,6 +1,6 @@
 ## Abstract
 
-             This project uses a simple 16x2 LCD which is interfaced to the Arduino Uno to display “HI” on the LCD screen.
+This project uses a simple 16x2 LCD which is interfaced to the Arduino Uno to display “HI” on the LCD screen.
 
 ## Hardware Components:
 
